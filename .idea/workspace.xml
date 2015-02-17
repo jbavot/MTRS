@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acfce919-e548-4c7d-92a5-fc7a4fe9e81b" name="Default" comment="" />
+    <ignored path="MTRS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MTRS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NS.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NS.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="17" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="5321">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="38" selection-start="4814" selection-end="4814" vertical-scroll-proportion="0.6215722" vertical-offset="1241" max-vertical-offset="4335">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3420" column="6" selection-start="54387" selection-end="54392" vertical-scroll-proportion="0.0" vertical-offset="58672" max-vertical-offset="120190">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-theme.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="20" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="7888">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="C:/wamp/www/tests/menu.php" />
+        <option value="C:/wamp/www/tests/footer.php" />
+        <option value="C:/wamp/www/tests/bonjour.php" />
+        <option value="C:/wamp/www/tests/index.php" />
+        <option value="$PROJECT_DIR$/formulaire.php" />
+        <option value="C:/wamp/www/tests/formulaire.php" />
+        <option value="C:/wamp/www/tests/cible.php" />
+        <option value="$PROJECT_DIR$/nbvisites.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/toparrow.js" />
+        <option value="$PROJECT_DIR$/js/toparrow.js" />
+        <option value="$PROJECT_DIR$/css/carousel.css" />
+        <option value="$PROJECT_DIR$/js/jquery.scrollUp.min.js" />
+        <option value="$PROJECT_DIR$/js/jquery.scrollUp.js" />
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/NS.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Tests" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="C:/wamp/www/tests" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Index.html">
+    <configuration default="false" name="Index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/MTRS/Index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acfce919-e548-4c7d-92a5-fc7a4fe9e81b" name="Default" comment="" />
+      <created>1384079910150</created>
+      <updated>1384079910150</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16764276" sideWeight="0.67156863" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39869282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/wamp/www/tests/entete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.15178572" vertical-offset="0" max-vertical-offset="560" />
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp/www/tests/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp/www/tests/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="6" selection-start="103" selection-end="103" vertical-scroll-proportion="0.12142857" vertical-offset="0" max-vertical-offset="560" />
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp/www/tests/nbvisites.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="31" selection-start="567" selection-end="567" vertical-scroll-proportion="0.40614334" vertical-offset="0" max-vertical-offset="34136" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/facebookwidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="7" selection-start="978" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="3179" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dvjhGoUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="25" selection-start="2335" selection-end="2335" vertical-scroll-proportion="0.0" vertical-offset="893" max-vertical-offset="1479" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.scrollUp.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1540" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.029668411" vertical-offset="0" max-vertical-offset="573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/smooth-scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="67" selection-end="84" vertical-scroll-proportion="-1.6979523" vertical-offset="1029" max-vertical-offset="1615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.scrollUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="24" selection-start="4577" selection-end="4577" vertical-scroll-proportion="0.31762654" vertical-offset="2079" max-vertical-offset="2771" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="17" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="5321">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3420" column="6" selection-start="54387" selection-end="54392" vertical-scroll-proportion="0.0" vertical-offset="58672" max-vertical-offset="120190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="20" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="7888">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="38" selection-start="4814" selection-end="4814" vertical-scroll-proportion="0.6215722" vertical-offset="1241" max-vertical-offset="4335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
